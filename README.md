@@ -34,7 +34,7 @@
 </p>
 
 ### 📫 Contact
-- Telegram: @yourname
-- Discord: yourname
+- Telegram: @RinDevelopment
+- Discord: ech0null
 
 <p align="center"><i>Building things, one plugin at a time. ⚡</i></p>
