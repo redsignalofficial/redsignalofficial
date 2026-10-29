@@ -39,4 +39,3 @@ cat > README.md << 'EOF'
 - Discord: yourname
 
 <p align="center"><i>Building things, one plugin at a time. ⚡</i></p>
-EOF
