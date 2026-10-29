@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 <h1 align="center">Hi, I'm Rin 👋</h1>
 
 <p align="center">
