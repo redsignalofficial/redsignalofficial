@@ -19,25 +19,23 @@
 ## Skills
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" height="48" alt="Java" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="48" alt="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/c/00599C" height="48" alt="C" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="48" alt="Bash" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="48" alt="Linux" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" height="48" alt="Git" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="48" alt="GitHub" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/minecraft/62B47A" height="48" alt="Minecraft" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="48" alt="Telegram" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" alt="Java" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="44" alt="Python" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/c/00599C" height="44" alt="C" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="44" alt="Bash" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="44" alt="Linux" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/git/F05032" height="44" alt="Git" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="44" alt="GitHub" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/minecraft-grass-cube.png" height="44" alt="Minecraft" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="44" alt="Telegram" />
 </p>
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=redsignalofficial&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redsignalofficial&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=redsignalofficial&theme=tokyonight&hide_border=true" />
